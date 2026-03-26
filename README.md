@@ -1,110 +1,131 @@
 # VICE Sonar
 
 <p align="center">
-  <img src="screenshots/audio.png" width="220" alt="VICE Sonar"/>
+  <img src="screenshots/audio.png" width="200" alt="VICE Sonar"/>
 </p>
 
 <p align="center">
   <strong>A sleek, always-on-top desktop widget for SteelSeries GG</strong><br/>
-  Control your Sonar audio, EQ profiles, and RGB lighting — without ever touching the main app.
+  Control your Sonar audio, EQ profiles, and RGB lighting — without ever opening the main app.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=flat&logo=windows&logoColor=white"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Version-3.1-00D4AA?style=flat"/>
+  &nbsp;
   <img src="https://img.shields.io/github/downloads/kingpin1dev/VICE-Sonar/total?style=flat&color=00D4AA&label=Downloads&logo=github"/>
 </p>
 
 ---
 
-## Download
+## ⬇️ Download
 
 <p align="center">
   <a href="../../releases/latest">
-    <img src="https://img.shields.io/badge/⬇%20Download%20Latest-ViceSonar__Setup__v1.0.0.exe-00D4AA?style=for-the-badge&logo=github" alt="Download Latest"/>
+    <img src="https://img.shields.io/badge/Download%20Latest-ViceSonar__Setup__v1.0.0.exe-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Download"/>
   </a>
 </p>
 
-Just download **`ViceSonar_Setup_v1.0.0.exe`** from the [Releases](../../releases/latest) page and run it.
-No Python, no dependencies — the installer handles everything.
+Grab **`ViceSonar_Setup_v1.0.0.exe`** from the [Releases](../../releases/latest) page and run it.
+No Python, no manual setup — the installer handles everything.
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
+### Panels
 <p align="center">
-  <img src="screenshots/audio.png" width="230" alt="Audio Panel"/>
+  <img src="screenshots/audio.png" width="210" alt="Audio"/>
   &nbsp;
-  <img src="screenshots/eq.png" width="230" alt="EQ Profiles"/>
+  <img src="screenshots/eq.png" width="210" alt="EQ Profiles"/>
   &nbsp;
-  <img src="screenshots/rgb.png" width="230" alt="RGB Lighting"/>
+  <img src="screenshots/rgb.png" width="210" alt="RGB"/>
+  &nbsp;
+  <img src="screenshots/settings.png" width="210" alt="Settings"/>
 </p>
 <p align="center">
-  <em>Audio Controls &nbsp;·&nbsp; EQ Profiles &nbsp;·&nbsp; RGB Lighting</em>
+  <em>Audio &nbsp;·&nbsp; EQ Profiles &nbsp;·&nbsp; RGB Lighting &nbsp;·&nbsp; Settings</em>
+</p>
+
+### Themes
+<p align="center">
+  <img src="screenshots/audio.png" width="185" alt="Moonlight"/>
+  &nbsp;
+  <img src="screenshots/theme_sunlight.png" width="185" alt="Sunlight"/>
+  &nbsp;
+  <img src="screenshots/theme_eris.png" width="185" alt="Eris"/>
+  &nbsp;
+  <img src="screenshots/theme_glassmorphic.png" width="185" alt="Glassmorphic"/>
+</p>
+<p align="center">
+  <em>Moonlight &nbsp;·&nbsp; Sunlight &nbsp;·&nbsp; Eris &nbsp;·&nbsp; Glassmorphic</em>
+</p>
+
+### Horizontal Layout
+<p align="center">
+  <img src="screenshots/horizontal_eris.png" width="420" alt="Horizontal Eris"/>
+  &nbsp;
+  <img src="screenshots/horizontal_rgb.png" width="420" alt="Horizontal RGB"/>
+</p>
+<p align="center">
+  <em>Every theme supports a horizontal widescreen layout</em>
 </p>
 
 ---
 
-## Features
+## ✨ Features
 
-### Audio Controls
-Full control over every SteelSeries Sonar channel from a compact floating panel.
+### 🔊 Audio Controls
+- **Per-channel volume sliders** — Master, Game, Chat, Media, Aux, Mic
+- **Mute toggles** on every channel
+- **ChatMix slider** — hardware-synced Game/Chat balance with live label
+- **Per-channel output device selector** — switch devices on the fly
+- Channels **collapse and expand** to keep things clean
 
-- **Per-channel volume sliders** for Master, Game, Chat, Media, Aux, and Mic
-- **Mute toggles** on every channel — one click, instant result
-- **ChatMix slider** — hardware-synced Game/Chat balance with live feedback
-- **Per-channel output device selector** — switch headset, speakers, or virtual cables on the fly
-- Channels collapse and expand to keep the view clean
-
-### EQ Profiles
-Switch EQ presets without opening SteelSeries GG.
-
-- Instantly apply your saved Sonar EQ profiles per device
-- Separate preset pickers for **Game, Chat, Mic, Media, and Aux** channels
+### 🎛️ EQ Profiles
+- Instantly apply your **saved Sonar EQ presets** per device
+- Separate pickers for **Game, Chat, Mic, Media, Aux**
 - Active preset highlighted with a checkmark
-- Reload button to refresh profiles without restarting
+- **Reload** button refreshes presets without restarting
 
-### RGB Lighting
-Send colors directly to your SteelSeries devices via GameSense.
-
+### 💡 RGB Lighting
 - **R / G / B sliders** with live color preview
 - One-click presets: Orange, Red, Blue, Green, White, Off
-- Apply button sends color to all connected devices instantly
+- Sends colors directly to devices via **GameSense**
 
-### Settings Panel
-Customize the widget to fit your setup.
-
+### ⚙️ Settings
 - **7 themes** — Sunlight, Moonlight, Orbit, Aqua, Eris, Cyber, Spider Lily
-- **Horizontal layout** toggle for each theme — widescreen friendly
-- **Transparency slider** — adjust opacity from 40% to 100%
+- **Horizontal layout** toggle — widescreen friendly
+- **Transparency slider** — 40% to 100% opacity
 - **Always on Top** toggle
 - **Start with Windows** option
-- **7 interface languages** — Türkçe, English, Français, Русский, Deutsch, Español, العربية
-- Restart button to apply changes instantly
+- **7 languages** — Türkçe, English, Français, Русский, Deutsch, Español, العربية
+- **Restart** button to apply changes instantly
 
-### UI & UX
+### 🖥️ UI & UX
 - Fully **borderless and draggable** — sits anywhere on screen
-- **Position memory** — remembers exactly where you placed it
+- **Position memory** — remembers where you placed it
 - **Instant tab switching** — all panels stay loaded in the background
-- **System tray integration** — hide/show, topmost toggle, restart, quit
-- No taskbar entry — stays out of your way
+- **System tray** — hide/show, topmost toggle, restart, quit
+- No taskbar entry — completely out of your way
 
 ---
 
-## Requirements
+## 📋 Requirements
 
 - Windows 10 or 11
 - [SteelSeries GG](https://steelseries.com/gg) installed and running with Sonar active
 
 ---
 
-## Installation
+## 🔧 Installation
 
 1. Download `ViceSonar_Setup_v1.0.0.exe` from [Releases](../../releases/latest)
-2. Run the installer — choose your shortcuts, startup preference, and install directory
-3. Launch **VICE Sonar** and enjoy
+2. Run the installer and follow the wizard
+3. Launch **VICE Sonar** from your desktop or Start Menu
 
-The uninstaller is included and accessible from Windows Settings → Add or Remove Programs.
+The uninstaller is included — accessible from **Windows Settings → Apps**.
 
 ---
 
