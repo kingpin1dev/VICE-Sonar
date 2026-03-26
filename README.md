@@ -36,37 +36,38 @@ No Python, no manual setup — the installer handles everything.
 
 ### Panels
 <p align="center">
-  <img src="screenshots/audio.png" width="210" alt="Audio"/>
+  <img src="screenshots/audio.png" width="220" alt="Audio"/>
   &nbsp;
-  <img src="screenshots/eq.png" width="210" alt="EQ Profiles"/>
+  <img src="screenshots/eq.png" width="220" alt="EQ Profiles"/>
   &nbsp;
-  <img src="screenshots/rgb.png" width="210" alt="RGB"/>
-  &nbsp;
-  <img src="screenshots/settings.png" width="210" alt="Settings"/>
+  <img src="screenshots/rgb.png" width="220" alt="RGB"/>
 </p>
 <p align="center">
-  <em>Audio &nbsp;·&nbsp; EQ Profiles &nbsp;·&nbsp; RGB Lighting &nbsp;·&nbsp; Settings</em>
+  <em>Audio &nbsp;·&nbsp; EQ Profiles &nbsp;·&nbsp; RGB Lighting</em>
 </p>
 
 ### Themes
 <p align="center">
-  <img src="screenshots/audio.png" width="185" alt="Moonlight"/>
+  <img src="screenshots/audio.png" width="175" alt="Moonlight"/>
   &nbsp;
-  <img src="screenshots/theme_sunlight.png" width="185" alt="Sunlight"/>
+  <img src="screenshots/theme_sunlight.png" width="175" alt="Sunlight"/>
   &nbsp;
-  <img src="screenshots/theme_eris.png" width="185" alt="Eris"/>
+  <img src="screenshots/theme_eris.png" width="175" alt="Eris"/>
   &nbsp;
-  <img src="screenshots/theme_glassmorphic.png" width="185" alt="Glassmorphic"/>
+  <img src="screenshots/theme_glassmorphic.png" width="175" alt="Glassmorphic"/>
 </p>
 <p align="center">
-  <em>Moonlight &nbsp;·&nbsp; Sunlight &nbsp;·&nbsp; Eris &nbsp;·&nbsp; Glassmorphic</em>
+  <em>Moonlight &nbsp;·&nbsp; Sunlight &nbsp;·&nbsp; Eris &nbsp;·&nbsp; Glassmorphic &nbsp;·&nbsp; <strong>+3 more</strong></em>
 </p>
 
 ### Horizontal Layout
 <p align="center">
-  <img src="screenshots/horizontal_eris.png" width="420" alt="Horizontal Eris"/>
+  <img src="screenshots/horizontal_eris.png" width="380" alt="Horizontal Eris"/>
   &nbsp;
-  <img src="screenshots/horizontal_rgb.png" width="420" alt="Horizontal RGB"/>
+  <img src="screenshots/horizontal_rgb.png" width="380" alt="Horizontal RGB"/>
+</p>
+<p align="center">
+  <img src="screenshots/horizontal_settings.png" width="380" alt="Horizontal Settings"/>
 </p>
 <p align="center">
   <em>Every theme supports a horizontal widescreen layout</em>
