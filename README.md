@@ -1,21 +1,23 @@
-# VICE Sonar
+# VICE Sonar — SteelSeries Sonar Desktop Widget
 
 <p align="center">
-  <img src="screenshots/audio.png" width="200" alt="VICE Sonar"/>
+  <img src="screenshots/audio.png" width="200" alt="VICE Sonar — SteelSeries Sonar Widget"/>
 </p>
 
 <p align="center">
-  <strong>A sleek, always-on-top desktop widget for SteelSeries GG</strong><br/>
-  Control your Sonar audio, EQ profiles, and RGB lighting — without ever opening the main app.
+  <strong>A sleek, always-on-top desktop widget for SteelSeries GG Sonar</strong><br/>
+  Control your Sonar audio mixer, EQ profiles, and RGB lighting — without ever opening the main app.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=flat&logo=windows&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Version-3.4-00D4AA?style=flat"/>
+  <img src="https://img.shields.io/badge/Version-3.4.1-00D4AA?style=flat"/>
   &nbsp;
   <img src="https://img.shields.io/github/downloads/kingpin1dev/VICE-Sonar/total?style=flat&color=00D4AA&label=Downloads&logo=github"/>
 </p>
+
+> **VICE Sonar** is a free, open-source Windows desktop widget that gives you instant access to [SteelSeries Sonar](https://steelseries.com/gg/sonar) — volume sliders, ChatMix, EQ presets, and GameSense RGB — all in a compact, always-on-top overlay. No need to open SteelSeries GG.
 
 ---
 
@@ -27,7 +29,7 @@
   </a>
 </p>
 
-Grab **`ViceSonar_Setup_v3.4.0.exe`** from the [Releases](../../releases/latest) page and run it.
+Grab **`ViceSonar_Setup_v3.4.1.exe`** from the [Releases](../../releases/latest) page and run it.
 No Python, no manual setup — the installer handles everything.
 
 ---
@@ -119,11 +121,19 @@ No Python, no manual setup — the installer handles everything.
 
 ## 🔧 Installation
 
-1. Download `ViceSonar_Setup_v3.4.0.exe` from [Releases](../../releases/latest)
+1. Download `ViceSonar_Setup_v3.4.1.exe` from [Releases](../../releases/latest)
 2. Run the installer and follow the wizard
 3. Launch **VICE Sonar** from your desktop or Start Menu
 
 The uninstaller is included — accessible from **Windows Settings → Apps**.
+
+---
+
+---
+
+## 🔍 Keywords
+
+`SteelSeries Sonar` · `SteelSeries GG` · `ChatMix` · `audio mixer widget` · `GameSense RGB` · `EQ profiles` · `Windows audio control` · `SteelSeries overlay` · `desktop widget Windows 11` · `SteelSeries Sonar alternative`
 
 ---
 
