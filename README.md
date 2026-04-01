@@ -1,7 +1,7 @@
 # VICE Sonar — SteelSeries Sonar Desktop Widget
 
 <p align="center">
-  <img src="screenshots/audio.png" width="200" alt="VICE Sonar — SteelSeries Sonar Widget"/>
+  <img src="screenshots/all_panels.png" alt="VICE Sonar — All Panels"/>
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=flat&logo=windows&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Version-3.4.1-00D4AA?style=flat"/>
+  <img src="https://img.shields.io/badge/Version-3.4.2-00D4AA?style=flat"/>
   &nbsp;
   <img src="https://img.shields.io/github/downloads/kingpin1dev/VICE-Sonar/total?style=flat&color=00D4AA&label=Downloads&logo=github"/>
 </p>
 
-> **VICE Sonar** is a free, open-source Windows desktop widget that gives you instant access to [SteelSeries Sonar](https://steelseries.com/gg/sonar) — volume sliders, ChatMix, EQ presets, and GameSense RGB — all in a compact, always-on-top overlay. No need to open SteelSeries GG.
+> **VICE Sonar** is a free Windows desktop widget that gives you instant access to [SteelSeries Sonar](https://steelseries.com/gg/sonar) — volume sliders, ChatMix, EQ presets, and GameSense RGB — all in a compact, always-on-top overlay. No need to open SteelSeries GG.
 
 ---
 
@@ -25,51 +25,55 @@
 
 <p align="center">
   <a href="../../releases/latest">
-    <img src="https://img.shields.io/badge/Download%20Latest-ViceSonar__Setup__v3.4.0.exe-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Download"/>
+    <img src="https://img.shields.io/badge/Download%20Free%20Lite-GitHub-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Download Lite"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://apps.microsoft.com/detail/9P40TMPLQB43">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" height="40"/>
   </a>
 </p>
 
-Grab **`ViceSonar_Setup_v3.4.1.exe`** from the [Releases](../../releases/latest) page and run it.
-No Python, no manual setup — the installer handles everything.
+| | Lite (Free) | Full (Store) |
+|---|:---:|:---:|
+| Master volume & mute | ✅ | ✅ |
+| EQ profiles (favorites) | ✅ | ✅ |
+| RGB lighting (GameSense) | ✅ | ✅ |
+| Bubble mode & system tray | ✅ | ✅ |
+| 7 interface languages | ✅ | ✅ |
+| ChatMix balance | ❌ | ✅ |
+| All audio channels + output switching | ❌ | ✅ |
+| All EQ profiles | ❌ | ✅ |
 
 ---
 
 ## 📸 Screenshots
 
-### Panels
 <p align="center">
-  <img src="screenshots/audio.png" width="220" alt="Audio"/>
-  &nbsp;
-  <img src="screenshots/eq.png" width="220" alt="EQ Profiles"/>
-  &nbsp;
-  <img src="screenshots/rgb.png" width="220" alt="RGB"/>
+  <img src="screenshots/themes_grid.png" alt="7 Themes"/>
 </p>
 <p align="center">
-  <em>Audio &nbsp;·&nbsp; EQ Profiles &nbsp;·&nbsp; RGB Lighting</em>
+  <em>7 built-in themes — Sunlight, Moonlight, Orbit, Aqua, Eris, Cyber, Spider Lily</em>
 </p>
 
-### Themes
 <p align="center">
-  <img src="screenshots/audio.png" width="175" alt="Moonlight"/>
-  &nbsp;
-  <img src="screenshots/theme_sunlight.png" width="175" alt="Sunlight"/>
-  &nbsp;
-  <img src="screenshots/theme_eris.png" width="175" alt="Eris"/>
-  &nbsp;
-  <img src="screenshots/theme_orbit.png" width="175" alt="Orbit"/>
+  <img src="screenshots/themes_dark.png" alt="Dark Themes"/>
 </p>
 <p align="center">
-  <em>Moonlight &nbsp;·&nbsp; Sunlight &nbsp;·&nbsp; Eris &nbsp;·&nbsp; Orbit &nbsp;·&nbsp; <strong>+3 more</strong></em>
+  <em>Spider Lily &nbsp;·&nbsp; Cyber &nbsp;·&nbsp; Orbit</em>
 </p>
 
-### Horizontal Layout
 <p align="center">
-  <img src="screenshots/horizontal_eris.png" width="380" alt="Horizontal Eris"/>
-  &nbsp;
-  <img src="screenshots/horizontal_rgb.png" width="380" alt="Horizontal RGB"/>
+  <img src="screenshots/themes_4.png" alt="More Themes"/>
 </p>
 <p align="center">
-  <em>Every theme supports a horizontal widescreen layout</em>
+  <em>Moonlight &nbsp;·&nbsp; Sunlight &nbsp;·&nbsp; Aqua &nbsp;·&nbsp; Eris</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/panels_horizontal.png" alt="Horizontal Layout & Settings"/>
+</p>
+<p align="center">
+  <em>Horizontal layout &amp; Settings panel</em>
 </p>
 
 ---
@@ -105,6 +109,7 @@ No Python, no manual setup — the installer handles everything.
 
 ### 🖥️ UI & UX
 - Fully **borderless and draggable** — sits anywhere on screen
+- **Bubble mode** — minimize to a floating always-on-top circle
 - **Position memory** — remembers where you placed it
 - **Instant tab switching** — all panels stay loaded in the background
 - **System tray** — hide/show, topmost toggle, restart, quit
@@ -121,13 +126,11 @@ No Python, no manual setup — the installer handles everything.
 
 ## 🔧 Installation
 
-1. Download `ViceSonar_Setup_v3.4.1.exe` from [Releases](../../releases/latest)
+1. Download `ViceSonar_Setup_v3.4.2.exe` from [Releases](../../releases/latest)
 2. Run the installer and follow the wizard
 3. Launch **VICE Sonar** from your desktop or Start Menu
 
 The uninstaller is included — accessible from **Windows Settings → Apps**.
-
----
 
 ---
 
