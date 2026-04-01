@@ -49,6 +49,20 @@
 ## 📸 Screenshots
 
 <p align="center">
+  <img src="screenshots/panels_main.png" alt="Audio, EQ and RGB panels"/>
+</p>
+<p align="center">
+  <em>Audio &nbsp;·&nbsp; EQ Profiles &nbsp;·&nbsp; RGB Lighting</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/panels_full.png" alt="Output device switching and all EQ profiles"/>
+</p>
+<p align="center">
+  <em>Output device switching &nbsp;·&nbsp; All EQ profiles (Full version)</em>
+</p>
+
+<p align="center">
   <img src="screenshots/themes_grid.png" alt="7 Themes"/>
 </p>
 <p align="center">
